@@ -66,8 +66,6 @@ Key fields include OrderID, Date, CustomerID, Product, Quantity, UnitPrice, Paym
 - **Cancelled and returned orders** accounted for 497 orders, representing approximately 41.4% of the 1,200 recorded orders.
 - **Instagram** recorded the highest total sales among referral sources at 275,285.45, while Referral recorded the lowest at 226,815.58.
 
-*Note: These figures represent recorded order values, not necessarily realized revenue. The dataset includes cancelled, returned, and pending orders, so further analysis is required to establish actual completed sales. The dataset also covers only the first six months of 2025.*
-
 ## Dashboard Features
 
 - KPI cards for total orders, customers, recorded sales, and average order value.
