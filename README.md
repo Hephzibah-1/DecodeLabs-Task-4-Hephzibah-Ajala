@@ -82,12 +82,9 @@ Key fields include OrderID, Date, CustomerID, Product, Quantity, UnitPrice, Paym
 ## Repository Structure
 
 - `README.md` — Project documentation.
-- Power BI report (`.pbix`) — Interactive dashboard.
-- Dashboard screenshot (`.png`) — Static preview of the dashboard.
-- Cleaned dataset from Project 3
-- Original uncleaned dataset
-
-*The file names above are descriptions of the expected deliverables; use the actual file names in your repository.*
+- DecodeLabs Project 4 Dashboard.png
+- DecodeLabs Project 4 Dashboard.pbix
+- Dataset for Data Analytics
 
 ## Conclusion
 
